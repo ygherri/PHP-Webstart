@@ -7,7 +7,7 @@
   <title>Document</title>
 </head>
 <body>
-  <h1>Condition</h1>
+  <h1>Conditions</h1>
 
   <?php 
 
